@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishitha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **SQL Database projects and trying to impliment Typescript in them.**
+- 🔭 I’m currently working on **Software testing along with it, I am also doing Mobile development applications.**
 
 - 🌱 I’m currently learning **DSA**
 
