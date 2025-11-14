@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **ACT(fibernet) as a Data Engineer.**
 
-- 🌱 I’m currently working on migration jos using **Pyspark**.
+- 🌱 I’m currently working on migration jobs using **Pyspark**.
 
 - 📫 How to reach me **rishitha1826@gmail.com**
 
