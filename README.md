@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rishitha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Software testing along with it, I am also doing Mobile development applications.**
+- 🔭 I’m currently working in **ACT(fibernet) as a Data Engineer.**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently working on migration jos using **Pyspark**.
 
 - 📫 How to reach me **rishitha1826@gmail.com**
 
