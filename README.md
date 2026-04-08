@@ -1,17 +1,77 @@
 <h1 align="center">Hi 👋, I'm Rishitha</h1>
-<h3 align="center">Full-Stack Developer | Data Engineering Enthusiast | DATA Explorer</h3>
+<h3 align="center">Full-Stack Developer | Data Engineer | Data-Driven Systems Builder</h3>
 
-- 🔭 I am highly interested in **working with data**, building data-driven applications and scalable systems.
-- ⚡ **Experience:** Hands-on experience in **Data Engineering**, developing ETL pipelines and performing large-scale data processing using **PySpark**, **NumPy**, and **Pandas**.
-- 💻 **Full-Stack Development:** Skilled in building end-to-end applications with a focus on performance and reliability.
-- 🌱 Currently strengthening my problem-solving skills through **DSA**.
-- 📫 How to reach me: **rishitha1826@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 About Me
+
+* 🔭 Passionate about building **scalable data systems** and **end-to-end applications**
+* ⚡ Strong focus on **Data Engineering, ETL pipelines, and distributed processing**
+* 💡 Interested in solving **real-world data problems at scale**
+* 🌱 Currently improving **DSA & system design skills**
+* 📫 Reach me at: **[rishitha1826@gmail.com](mailto:rishitha1826@gmail.com)**
+
+---
+
+### 💼 Experience
+
+**ACT Fibernet | Data Engineering (Analytics Intern)**
+📅 *April 2025 – April 2026*
+
+* ⚙️ Designed and optimized **PySpark-based ETL pipelines** for large-scale batch processing
+* 🔄 Built data workflows integrating **SQL, Hive, HBase, Oracle, and FTP systems**
+* 📊 Executed **large-scale data migration**, ensuring high data integrity across distributed systems
+* 🧠 Developed **complex SQL queries** for transformation and validation, improving pipeline efficiency
+* 🚀 Improved performance and reliability of data pipelines in production environments
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Programming & Development
+
+* **Languages:** Python, C++, Java, SQL
+* **Full-Stack:** React, Node.js, Express, MongoDB
+
+#### 📊 Data & Analytics
+
+* **Data Engineering:** PySpark, Hive, HBase
+* **Data Analysis:** Pandas, NumPy
+* **Visualization:** Power BI, Tableau
+
+#### ☁️ Cloud & Deployment
+
+* AWS (Intermediate)
+* Google Cloud (Intermediate)
+
+#### 🧪 Testing & Tools
+
+* Jest, Jasmine, Vitest, Selenium
+* Figma
+
+---
+
+### 📌 Skill Proficiency
+
+* **Full-Stack Development:** Advanced
+* **Data Analytics:** Advanced
+* **Data Science:** Advanced
+* **PySpark:** Intermediate → Advanced *(Certified)*
+
+---
+
+### 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/rishitha-nallapureddy-4230072a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/rishi_1826" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/fzc6umf3yu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishitha-nallapureddy-4230072a8/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://instagram.com/rishi_1826" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/u/fzc6umf3yu/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
