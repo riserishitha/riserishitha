@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rishitha</h1>
-<h3 align="center">Full-Stack Developer | Data Engineer | AI Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | Data Engineering Enthusiast | DATA Explorer</h3>
 
-- 🔭 I specialize in **Full-Stack Development** and **Data Engineering**, building end-to-end applications and scalable ETL pipelines.
-- ⚡ **Technical Focus:** Proficient in **PySpark**, **NumPy**, and **Pandas** for data transformation, and **Jest** for robust unit testing.
-- 🤖 **AI Integration:** Experienced in working with **OpenAI APIs** to build intelligent interactions and personalized AI systems.
-- 🌱 I’m currently sharpening my problem-solving skills through **DSA**.
+- 🔭 I am highly interested in **working with data**, building data-driven applications and scalable systems.
+- ⚡ **Experience:** Hands-on experience in **Data Engineering**, developing ETL pipelines and performing large-scale data processing using **PySpark**, **NumPy**, and **Pandas**.
+- 💻 **Full-Stack Development:** Skilled in building end-to-end applications with a focus on performance and reliability.
+- 🌱 Currently strengthening my problem-solving skills through **DSA**.
 - 📫 How to reach me: **rishitha1826@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
